@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [QuickPantry](https://github.com/willjad11/quickpantry)
 
-- 🌱 I’m currently learning **new Javascript algorithms!**
+- 🌱 I’m currently learning **new algorithms!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/willjad11/](https://github.com/willjad11/)
 
